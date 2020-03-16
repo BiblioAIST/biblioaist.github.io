@@ -1,3 +1,10 @@
+div#container
+{
+   width: 970px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
 body
 {
    background-color: #FFFFFF;
@@ -7,7 +14,7 @@ body
    font-size: 13px;
    line-height: 1.1875;
    margin: 0;
-   padding: 0;
+   text-align: center;
 }
 #shapkaFon
 {
@@ -21,7 +28,7 @@ body
    background-color: transparent;
    background-image: none;
 }
-#Layer1
+#LayerPodShapkoy
 {
    background-color: #FF9400;
    background-image: none;
@@ -87,6 +94,321 @@ body
    height: 100%;
 }
 #Image7
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#LayerNovosnoy
+{
+   background-color: transparent;
+   background-image: none;
+}
+#Layer2strpodl
+{
+   background-color: #FF9400;
+   background-image: none;
+   -webkit-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   -moz-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+}
+#Layer2str
+{
+   background-color: #0089FF;
+   background-image: none;
+}
+#Image8
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image9
+{
+   border: 0px solid #000000;
+   padding: 0;
+   -webkit-animation: slide-right-in 1000ms ease 1ms 1 normal both;
+   -moz-animation: slide-right-in 1000ms ease 1ms 1 normal both;
+   animation: slide-right-in 1000ms ease 1ms 1 normal both;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer3strpodl
+{
+   background-color: #FF9400;
+   background-image: none;
+   -webkit-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   -moz-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+}
+#Layer3str
+{
+   background-color: #0089FF;
+   background-image: none;
+}
+#Image10
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image11
+{
+   border: 0px solid #000000;
+   padding: 0;
+   -webkit-animation: slide-left-in 1000ms ease 1ms 1 normal both;
+   -moz-animation: slide-left-in 1000ms ease 1ms 1 normal both;
+   animation: slide-left-in 1000ms ease 1ms 1 normal both;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer4strpodl
+{
+   background-color: #FF9400;
+   background-image: none;
+   -webkit-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   -moz-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+}
+#Layer4str
+{
+   background-color: #0089FF;
+   background-image: none;
+}
+#Image12
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image13
+{
+   border: 0px solid #000000;
+   padding: 0;
+   -webkit-animation: slide-right-in 1000ms ease 1ms 1 normal both;
+   -moz-animation: slide-right-in 1000ms ease 1ms 1 normal both;
+   animation: slide-right-in 1000ms ease 1ms 1 normal both;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer5strpodl
+{
+   background-color: #FF9400;
+   background-image: none;
+   -webkit-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   -moz-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+}
+#Layer5str
+{
+   background-color: #0089FF;
+   background-image: none;
+}
+#Image14
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image15
+{
+   border: 0px solid #000000;
+   padding: 0;
+   -webkit-animation: slide-left-in 1000ms ease 1ms 1 normal both;
+   -moz-animation: slide-left-in 1000ms ease 1ms 1 normal both;
+   animation: slide-left-in 1000ms ease 1ms 1 normal both;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer6strpodl
+{
+   background-color: #FF9400;
+   background-image: none;
+   -webkit-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   -moz-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+}
+#Layer6str
+{
+   background-color: #0089FF;
+   background-image: none;
+}
+#Image16
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image17
+{
+   border: 0px solid #000000;
+   padding: 0;
+   -webkit-animation: slide-right-in 1000ms ease 0ms 1 normal both;
+   -moz-animation: slide-right-in 1000ms ease 0ms 1 normal both;
+   animation: slide-right-in 1000ms ease 0ms 1 normal both;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#LayerNiz
+{
+   background-color: #00A1FF;
+   background-image: none;
+}
+#LayerPodShapkoyNiz
+{
+   background-color: #FF9400;
+   background-image: none;
+}
+#Image18
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image19
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image20
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image21
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image22
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image23
+{
+   border: 0px solid transparent;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image24
+{
+   border: 0px solid transparent;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image25
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image26
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image27
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image28
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image29
 {
    border: 0px solid #000000;
    padding: 0;
