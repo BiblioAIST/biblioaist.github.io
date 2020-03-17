@@ -422,9 +422,7 @@ body
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: animate-fade-in 1000ms ease 1ms 1 normal both;
-   -moz-animation: animate-fade-in 1000ms ease 1ms 1 normal both;
-   animation: animate-fade-in 1000ms ease 1ms 1 normal both;
+   opacity: 0.00;
 }
 #Layer2strVerhSylka
 {
@@ -440,33 +438,25 @@ body
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: animate-fade-in 1000ms ease 1ms 1 normal both;
-   -moz-animation: animate-fade-in 1000ms ease 1ms 1 normal both;
-   animation: animate-fade-in 1000ms ease 1ms 1 normal both;
+   opacity: 0.00;
 }
 #LayerCherta4
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: animate-fade-in 1000ms ease 1ms 1 normal both;
-   -moz-animation: animate-fade-in 1000ms ease 1ms 1 normal both;
-   animation: animate-fade-in 1000ms ease 1ms 1 normal both;
+   opacity: 0.00;
 }
 #LayerCherta5
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: animate-fade-in 1000ms ease 1ms 1 normal both;
-   -moz-animation: animate-fade-in 1000ms ease 1ms 1 normal both;
-   animation: animate-fade-in 1000ms ease 1ms 1 normal both;
+   opacity: 0.00;
 }
 #LayerCherta6
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: animate-fade-in 1000ms ease 1ms 1 normal both;
-   -moz-animation: animate-fade-in 1000ms ease 1ms 1 normal both;
-   animation: animate-fade-in 1000ms ease 1ms 1 normal both;
+   opacity: 0.00;
 }
 #Layer4strVerhSylka
 {
