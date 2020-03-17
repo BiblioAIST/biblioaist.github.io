@@ -33,7 +33,7 @@ body
    background-color: #FF9400;
    background-image: none;
 }
-#Image2
+#ImgLogo
 {
    border: 0px solid #000000;
    padding: 0;
@@ -43,7 +43,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image3
+#ImgUspeh
 {
    border: 0px solid #000000;
    padding: 0;
@@ -53,7 +53,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image4
+#ImgNomer
 {
    border: 0px solid #000000;
    padding: 0;
@@ -63,7 +63,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image1
+#ImgGRB
 {
    border: 0px solid #000000;
    padding: 0;
@@ -73,7 +73,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image5
+#ImgGRB2
 {
    border: 0px solid #000000;
    padding: 0;
@@ -83,7 +83,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image6
+#ImgGRB3
 {
    border: 0px solid #000000;
    padding: 0;
@@ -93,7 +93,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image7
+#ImgGRB4
 {
    border: 0px solid #000000;
    padding: 0;
@@ -112,16 +112,16 @@ body
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
-   -moz-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
-   animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   -webkit-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   -moz-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
 }
 #Layer2str
 {
    background-color: #0089FF;
    background-image: none;
 }
-#Image8
+#Imgstr2
 {
    border: 0px solid #000000;
    padding: 0;
@@ -131,7 +131,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image9
+#Imgstr2Text
 {
    border: 0px solid #000000;
    padding: 0;
@@ -148,16 +148,16 @@ body
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
-   -moz-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
-   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   -webkit-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   -moz-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   animation: slide-right-in 500ms ease-out 0ms 1 normal both;
 }
 #Layer3str
 {
    background-color: #0089FF;
    background-image: none;
 }
-#Image10
+#Imgstr3
 {
    border: 0px solid #000000;
    padding: 0;
@@ -167,7 +167,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image11
+#Imgstr3Text
 {
    border: 0px solid #000000;
    padding: 0;
@@ -184,16 +184,16 @@ body
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
-   -moz-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
-   animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   -webkit-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   -moz-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
 }
 #Layer4str
 {
    background-color: #0089FF;
    background-image: none;
 }
-#Image12
+#Imgstr4
 {
    border: 0px solid #000000;
    padding: 0;
@@ -203,7 +203,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image13
+#Imgstr4Text
 {
    border: 0px solid #000000;
    padding: 0;
@@ -220,16 +220,16 @@ body
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
-   -moz-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
-   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   -webkit-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   -moz-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   animation: slide-right-in 500ms ease-out 0ms 1 normal both;
 }
 #Layer5str
 {
    background-color: #0089FF;
    background-image: none;
 }
-#Image14
+#Imgstr5
 {
    border: 0px solid #000000;
    padding: 0;
@@ -239,7 +239,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image15
+#Imgstr5Text
 {
    border: 0px solid #000000;
    padding: 0;
@@ -256,16 +256,16 @@ body
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
-   -moz-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
-   animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   -webkit-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   -moz-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
 }
 #Layer6str
 {
    background-color: #0089FF;
    background-image: none;
 }
-#Image16
+#Imgstr6
 {
    border: 0px solid #000000;
    padding: 0;
@@ -275,7 +275,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image17
+#Imgstr6Text
 {
    border: 0px solid #000000;
    padding: 0;
@@ -298,7 +298,7 @@ body
    background-color: #FF9400;
    background-image: none;
 }
-#Image18
+#ImgGRB5
 {
    border: 0px solid #000000;
    padding: 0;
@@ -308,7 +308,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image19
+#ImgGRB6
 {
    border: 0px solid #000000;
    padding: 0;
@@ -318,7 +318,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image20
+#ImgGRB8
 {
    border: 0px solid #000000;
    padding: 0;
@@ -328,7 +328,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image21
+#ImgVKlogo
 {
    border: 0px solid #000000;
    padding: 0;
@@ -338,17 +338,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image22
-{
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#Image23
+#ImgVKtext
 {
    border: 0px solid transparent;
    padding: 0;
@@ -358,7 +348,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image24
+#ImgSaitText
 {
    border: 0px solid transparent;
    padding: 0;
@@ -368,7 +358,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image25
+#Imggrcbs
 {
    border: 0px solid #000000;
    padding: 0;
@@ -378,7 +368,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image26
+#ImgTelText
 {
    border: 0px solid #000000;
    padding: 0;
@@ -388,27 +378,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image27
-{
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#Image28
-{
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#Image29
+#ImgLogoTel
 {
    border: 0px solid #000000;
    padding: 0;
@@ -472,4 +442,44 @@ body
 {
    background-color: transparent;
    background-image: none;
+}
+#ImgPolitikaK
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#ImgEmailText
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#ImgEmailLogo
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#ImgGRB7
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
 }
