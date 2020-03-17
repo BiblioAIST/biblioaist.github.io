@@ -1,3 +1,10 @@
+@font-face
+{
+   font-family: "Century Gothic";
+   src: url('../text/CenturyGothic.woff') format('woff'),
+        url('../text/CenturyGothic.ttf') format('truetype'),
+        url('../text/CenturyGothic.eot') format('embedded-opentype');
+}
 @-webkit-keyframes slide-left-in
 {
    0% { -webkit-transform: translate(-100%,0px) rotate(1deg) ; opacity: 0; -webkit-transform-origin: 0 0;  }
