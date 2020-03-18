@@ -81,9 +81,9 @@ body
 {
    border: 0px solid #000000;
    padding: 0;
-   -webkit-animation: slide-right-in 1000ms ease 1ms 1 normal both;
-   -moz-animation: slide-right-in 1000ms ease 1ms 1 normal both;
-   animation: slide-right-in 1000ms ease 1ms 1 normal both;
+   -webkit-animation: filter-blur-in 1000ms ease 1ms 1 normal both;
+   -moz-animation: filter-blur-in 1000ms ease 1ms 1 normal both;
+   animation: filter-blur-in 1000ms ease 1ms 1 normal both;
    margin: 0;
    left: 0;
    top: 0;
@@ -915,5 +915,10 @@ body
 #Layer1
 {
    background-color: #FFFFFF;
+   background-image: none;
+}
+#Layer4
+{
+   background-color: #00A1FF;
    background-image: none;
 }

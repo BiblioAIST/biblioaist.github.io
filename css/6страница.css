@@ -16,3 +16,274 @@ body
    margin: 0;
    text-align: center;
 }
+#LayerPodShapkoy
+{
+   background-color: #FF9400;
+   background-image: none;
+}
+#LayerPodShapkoyNiz
+{
+   background-color: #FF9400;
+   background-image: none;
+}
+#Layer2str
+{
+   background-color: #0089FF;
+   background-image: none;
+}
+#Imgstr2_2
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer2strVerhSylka
+{
+   background-color: transparent;
+   background-image: none;
+}
+#Layer2strpodl
+{
+   background-color: #FF9400;
+   background-image: none;
+   -webkit-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   -moz-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+}
+#ImgLogo2
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Imgstr6Text
+{
+   border: 0px solid #000000;
+   padding: 0;
+   -webkit-animation: filter-blur-in 1000ms ease 0ms 1 normal both;
+   -moz-animation: filter-blur-in 1000ms ease 0ms 1 normal both;
+   animation: filter-blur-in 1000ms ease 0ms 1 normal both;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#LayerDlayText
+{
+   background-color: #00A1FF;
+   background-image: none;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
+#wb_Text1_2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1_2 div
+{
+   text-align: left;
+}
+#Image1
+{
+   border: 0px solid transparent;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer1
+{
+   background-color: #00A1FF;
+   background-image: none;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text2 div
+{
+   text-align: left;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text3 div
+{
+   text-align: left;
+}
+#Image2
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer2
+{
+   background-color: #00A1FF;
+   background-image: none;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text4 div
+{
+   text-align: left;
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text5 div
+{
+   text-align: left;
+}
+#Image3
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer3
+{
+   background-color: #00A1FF;
+   background-image: none;
+}
+#wb_Text6 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text6 div
+{
+   text-align: left;
+}
+#wb_Text7 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text7 div
+{
+   text-align: left;
+}
+#Image4
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer4
+{
+   background-color: #00A1FF;
+   background-image: none;
+}
+#wb_Text8 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text8 div
+{
+   text-align: left;
+}
+#wb_Text9 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text9 div
+{
+   text-align: left;
+}
+#Image5
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer5
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
