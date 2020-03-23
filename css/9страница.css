@@ -71,6 +71,8 @@ body
 {
    background-color: #00A1FF;
    background-image: none;
+   border: 11px double #FFFFFF;
+   border-radius: 10px;
 }
 #ImgstrTD
 {
@@ -111,6 +113,8 @@ body
 {
    background-color: #FFFFFF;
    background-image: none;
+   border: 6px double #FFFFFF;
+   border-radius: 12px;
    box-shadow: 0px 3px 9px rgba(0,0,0,0.50);
    overflow: visible;
 }
@@ -149,7 +153,7 @@ body
 #Layer1 .modal-dialog
 {
    position: relative;
-   width: 898px;
+   width: 910px;
    margin: 30px auto;
 }
 #Layer1 .modal-content
@@ -173,8 +177,8 @@ body
 #Layer1 .modal-body
 {
    position: relative;
-   width: 898px;
-   height: 529px;
+   width: 910px;
+   height: 541px;
 }
 #Layer1 .close
 {
