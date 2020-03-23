@@ -188,3 +188,17 @@ h6, .h6
    color: #2E74B5;
    background-color: transparent;
 }
+.style1
+{
+   font-family: "Century Gothic";
+   text-decoration: underline;
+   color: #FFFFFF;
+   background-color: transparent;
+}
+.style2
+{
+   font-family: "Century Gothic";
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: transparent;
+}
