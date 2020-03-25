@@ -106,6 +106,26 @@ input:focus, textarea:focus, select:focus
 {
    visibility: hidden;
 }
+a.style1
+{
+   color: #4169E1;
+   text-decoration: none;
+}
+a.style1:visited
+{
+   color: #4169E1;
+   text-decoration: none;
+}
+a.style1:active
+{
+   color: #FF9400;
+   text-decoration: none;
+}
+a.style1:hover
+{
+   color: #4169E1;
+   text-decoration: none;
+}
 h1, .h1
 {
    font-family: Arial;
