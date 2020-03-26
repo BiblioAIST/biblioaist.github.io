@@ -16,6 +16,19 @@ body
    margin: 0;
    text-align: center;
 }
+#Imgstr4Text
+{
+   border: 0px solid #000000;
+   padding: 0;
+   -webkit-animation: slide-right-in 1000ms ease 1ms 1 normal both;
+   -moz-animation: slide-right-in 1000ms ease 1ms 1 normal both;
+   animation: slide-right-in 1000ms ease 1ms 1 normal both;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
 #wb_TextBiblioAIST 
 {
    background-color: transparent;
@@ -125,9 +138,9 @@ body
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
-   -moz-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
-   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   -webkit-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   -moz-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   animation: slide-right-in 500ms ease-out 0ms 1 normal both;
 }
 #Layer2str
 {
@@ -161,9 +174,9 @@ body
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
-   -moz-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
-   animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   -webkit-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   -moz-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
 }
 #Layer3str
 {
@@ -197,9 +210,9 @@ body
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
-   -moz-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
-   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   -webkit-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   -moz-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   animation: slide-right-in 500ms ease-out 0ms 1 normal both;
 }
 #Layer4str
 {
@@ -216,26 +229,13 @@ body
    width: 100%;
    height: 100%;
 }
-#Imgstr4Text
-{
-   border: 0px solid #000000;
-   padding: 0;
-   -webkit-animation: slide-right-in 1000ms ease 1ms 1 normal both;
-   -moz-animation: slide-right-in 1000ms ease 1ms 1 normal both;
-   animation: slide-right-in 1000ms ease 1ms 1 normal both;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
 #Layer5strpodl
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
-   -moz-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
-   animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   -webkit-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   -moz-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
 }
 #Layer5str
 {
@@ -269,9 +269,9 @@ body
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
-   -moz-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
-   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   -webkit-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   -moz-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   animation: slide-right-in 500ms ease-out 0ms 1 normal both;
 }
 #Layer6str
 {
@@ -600,9 +600,9 @@ body
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
-   -moz-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
-   animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   -webkit-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   -moz-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
 }
 #ImgstrTDText
 {
