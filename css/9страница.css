@@ -123,18 +123,6 @@ body
    width: 100%;
    height: 100%;
 }
-#lampa2
-{
-   border-width: 0;
-}
-#lampa1
-{
-   border-width: 0;
-}
-#lampa3
-{
-   border-width: 0;
-}
 #wb_Text1 
 {
    background-color: transparent;
@@ -259,18 +247,6 @@ body
 {
    text-align: left;
 }
-#Shape1
-{
-   border-width: 0;
-}
-#Shape2
-{
-   border-width: 0;
-}
-#Shape3
-{
-   border-width: 0;
-}
 #Layerst68
 {
    background-color: #00A1FF;
@@ -290,18 +266,6 @@ body
 #wb_Text11 div
 {
    text-align: left;
-}
-#Shape4
-{
-   border-width: 0;
-}
-#Shape5
-{
-   border-width: 0;
-}
-#Shape6
-{
-   border-width: 0;
 }
 #Layerst69
 {
@@ -324,18 +288,6 @@ body
    text-align: left;
    white-space: nowrap;
 }
-#Shape7
-{
-   border-width: 0;
-}
-#Shape8
-{
-   border-width: 0;
-}
-#Shape9
-{
-   border-width: 0;
-}
 #Layerst70
 {
    background-color: #00A1FF;
@@ -343,36 +295,12 @@ body
    border: 11px double #FFFFFF;
    border-radius: 10px;
 }
-#Shape10
-{
-   border-width: 0;
-}
-#Shape11
-{
-   border-width: 0;
-}
-#Shape12
-{
-   border-width: 0;
-}
 #Layerst71
 {
    background-color: #00A1FF;
    background-image: none;
    border: 11px double #FFFFFF;
    border-radius: 10px;
-}
-#Shape13
-{
-   border-width: 0;
-}
-#Shape14
-{
-   border-width: 0;
-}
-#Shape15
-{
-   border-width: 0;
 }
 #wb_Text16 
 {
@@ -393,18 +321,6 @@ body
    background-image: none;
    border: 11px double #FFFFFF;
    border-radius: 10px;
-}
-#Shape16
-{
-   border-width: 0;
-}
-#Shape17
-{
-   border-width: 0;
-}
-#Shape18
-{
-   border-width: 0;
 }
 #wb_Text17 
 {
@@ -427,18 +343,6 @@ body
    border: 11px double #FFFFFF;
    border-radius: 10px;
 }
-#Shape19
-{
-   border-width: 0;
-}
-#Shape20
-{
-   border-width: 0;
-}
-#Shape21
-{
-   border-width: 0;
-}
 #wb_Text18 
 {
    background-color: transparent;
@@ -459,18 +363,6 @@ body
    background-image: none;
    border: 11px double #FFFFFF;
    border-radius: 10px;
-}
-#Shape22
-{
-   border-width: 0;
-}
-#Shape23
-{
-   border-width: 0;
-}
-#Shape24
-{
-   border-width: 0;
 }
 #wb_Text19 
 {
@@ -493,18 +385,6 @@ body
    border: 11px double #FFFFFF;
    border-radius: 10px;
 }
-#Shape25
-{
-   border-width: 0;
-}
-#Shape26
-{
-   border-width: 0;
-}
-#Shape27
-{
-   border-width: 0;
-}
 #wb_Text20 
 {
    background-color: transparent;
@@ -525,18 +405,6 @@ body
    background-image: none;
    border: 11px double #FFFFFF;
    border-radius: 10px;
-}
-#Shape28
-{
-   border-width: 0;
-}
-#Shape29
-{
-   border-width: 0;
-}
-#Shape30
-{
-   border-width: 0;
 }
 #wb_Text21 
 {
@@ -1422,10 +1290,6 @@ body
    background-image: none;
    border: 11px double #FFFFFF;
    border-radius: 10px;
-}
-#Shape112
-{
-   border-width: 0;
 }
 #Shape113
 {
@@ -10272,7 +10136,7 @@ body
 {
    margin: 0;
    padding: 0;
-   line-height: 205px;
+   line-height: 208px;
 }
 #ST133
 {
