@@ -18,12 +18,12 @@ body
    overflow-x: scroll;
    overflow-y: scroll;
 }
-#LayerOkno71
+#LayerOkno133
 {
    background-color: #FFFFFF;
    background-image: none;
-   border: 1px solid transparent;
-   border-radius: 6px;
+   border: 5px solid transparent;
+   border-radius: 10px;
    overflow: visible;
 }
 .ui-dialog
@@ -37,7 +37,7 @@ body
    border-width: 0;
    padding: 0;
 }
-#wb_Text91 
+#wb_Text456 
 {
    background-color: transparent;
    background-image: none;
@@ -46,24 +46,11 @@ body
    margin: 0;
    text-align: left;
 }
-#wb_Text91 div
+#wb_Text456 div
 {
    text-align: left;
 }
-#wb_Text92 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text92 div
-{
-   text-align: left;
-}
-#wb_Text93 
+#wb_Text457 
 {
    background-color: transparent;
    background-image: none;
@@ -72,24 +59,11 @@ body
    margin: 0;
    text-align: left;
 }
-#wb_Text93 div
+#wb_Text457 div
 {
    text-align: left;
 }
-#wb_Text94 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text94 div
-{
-   text-align: left;
-}
-#wb_Text95 
+#wb_Text458 
 {
    background-color: transparent;
    background-image: none;
@@ -98,24 +72,11 @@ body
    margin: 0;
    text-align: left;
 }
-#wb_Text95 div
+#wb_Text458 div
 {
    text-align: left;
 }
-#wb_Text96 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text96 div
-{
-   text-align: left;
-}
-#wb_Text97 
+#wb_Text459 
 {
    background-color: transparent;
    background-image: none;
@@ -124,202 +85,7 @@ body
    margin: 0;
    text-align: left;
 }
-#wb_Text97 div
-{
-   text-align: left;
-}
-#wb_Text98 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text98 div
-{
-   text-align: left;
-}
-#wb_Text99 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text99 div
-{
-   text-align: left;
-}
-#wb_Text100 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text100 div
-{
-   text-align: left;
-}
-#wb_Text101 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text101 div
-{
-   text-align: left;
-}
-#wb_Text102 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text102 div
-{
-   text-align: left;
-}
-#wb_Text103 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text103 div
-{
-   text-align: left;
-}
-#wb_Text104 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text104 div
-{
-   text-align: left;
-}
-#wb_Text105 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text105 div
-{
-   text-align: left;
-}
-#wb_Text106 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text106 div
-{
-   text-align: left;
-}
-#wb_Text107 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text107 div
-{
-   text-align: left;
-}
-#wb_Text108 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text108 div
-{
-   text-align: left;
-}
-#wb_Text109 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text109 div
-{
-   text-align: left;
-}
-#wb_Text110 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text110 div
-{
-   text-align: left;
-}
-#wb_Text111 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text111 div
-{
-   text-align: left;
-}
-#wb_Text112 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text112 div
+#wb_Text459 div
 {
    text-align: left;
 }
