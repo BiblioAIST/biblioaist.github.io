@@ -222,3 +222,33 @@ h6, .h6
    color: #FFFFFF;
    background-color: transparent;
 }
+.Nazvanie
+{
+   font-family: "Century Gothic";
+   font-weight: bold;
+   font-size: 35px;
+   text-decoration: none;
+   color: #FF9400;
+   background-color: transparent;
+   -webkit-animation-name: filter-blur-in;
+   -moz-animation-name: filter-blur-in;
+   animation-name: filter-blur-in;
+   -webkit-animation-duration: 1000ms;
+   -moz-animation-duration: 1000ms;
+   animation-duration: 1000ms;
+   -webkit-animation-delay: 0ms;
+   -moz-animation-delay: 0ms;
+   animation-delay: 0ms;
+   -webkit-animation-timing-function: linear;
+   -moz-animation-timing-function: linear;
+   animation-timing-function: linear;
+   -webkit-animation-iteration-count: 1;
+   -moz-animation-iteration-count: 1;
+   animation-iteration-count: 1;
+   -webkit-animation-direction: normal;
+   -moz-animation-direction: normal;
+   animation-direction: normal;
+   -webkit-animation-fill-mode: none;
+   -moz-animation-fill-mode: none;
+   animation-fill-mode: none;
+}
