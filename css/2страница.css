@@ -922,3 +922,7 @@ body
    background-color: #00A1FF;
    background-image: none;
 }
+#wb_Textstr2Text div
+{
+   text-align: left;
+}
