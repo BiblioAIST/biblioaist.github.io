@@ -16,6 +16,19 @@ body
    margin: 0;
    text-align: center;
 }
+#Imgstr2Text
+{
+   border: 0px solid #000000;
+   padding: 0;
+   -webkit-animation: slide-right-in 1000ms ease 1ms 1 normal both;
+   -moz-animation: slide-right-in 1000ms ease 1ms 1 normal both;
+   animation: slide-right-in 1000ms ease 1ms 1 normal both;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
 #Imgstr6Text
 {
    border: 0px solid #000000;
@@ -62,19 +75,6 @@ body
    -webkit-animation: slide-left-in 1000ms ease 1ms 1 normal both;
    -moz-animation: slide-left-in 1000ms ease 1ms 1 normal both;
    animation: slide-left-in 1000ms ease 1ms 1 normal both;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#Imgstr2Text
-{
-   border: 0px solid #000000;
-   padding: 0;
-   -webkit-animation: slide-right-in 1000ms ease 1ms 1 normal both;
-   -moz-animation: slide-right-in 1000ms ease 1ms 1 normal both;
-   animation: slide-right-in 1000ms ease 1ms 1 normal both;
    margin: 0;
    left: 0;
    top: 0;

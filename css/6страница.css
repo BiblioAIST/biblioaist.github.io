@@ -16,6 +16,46 @@ body
    margin: 0;
    text-align: center;
 }
+#Layer15
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+#Layer14
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+#Layer13
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+#Layer12
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+#Layer11
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+#Layer10
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+#Layer9
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+#Layer8
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
 #LayerPodShapkoy
 {
    background-color: #FF9400;
@@ -108,16 +148,6 @@ body
 {
    text-align: left;
 }
-#Image1
-{
-   border: 0px solid transparent;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
 #Layer1
 {
    background-color: #00A1FF;
@@ -148,16 +178,6 @@ body
 #wb_Text3 div
 {
    text-align: left;
-}
-#Image2
-{
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
 }
 #Layer2
 {
@@ -190,16 +210,6 @@ body
 {
    text-align: left;
 }
-#Image3
-{
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
 #Layer3
 {
    background-color: #00A1FF;
@@ -230,16 +240,6 @@ body
 #wb_Text7 div
 {
    text-align: left;
-}
-#Image4
-{
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
 }
 #Layer4
 {
@@ -272,7 +272,74 @@ body
 {
    text-align: left;
 }
-#Image5
+#Layer5
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+#Layer6
+{
+   background-color: #00A1FF;
+   background-image: none;
+}
+#wb_Text10 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text10 div
+{
+   text-align: left;
+}
+#wb_Text11 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text11 div
+{
+   text-align: left;
+}
+#Layer7
+{
+   background-color: #00A1FF;
+   background-image: none;
+}
+#wb_Text12 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text12 div
+{
+   text-align: left;
+}
+#wb_Text13 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text13 div
+{
+   text-align: left;
+}
+#Image4_6
 {
    border: 0px solid #000000;
    padding: 0;
@@ -282,8 +349,63 @@ body
    width: 100%;
    height: 100%;
 }
-#Layer5
+#Image5_6
 {
-   background-color: #FFFFFF;
-   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image6_6
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image7_6
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image1_6
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image2_6
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image1
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
 }

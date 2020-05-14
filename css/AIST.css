@@ -252,3 +252,12 @@ h6, .h6
    -moz-animation-fill-mode: none;
    animation-fill-mode: none;
 }
+.Text glavnaya
+{
+   font-family: "Century Gothic";
+   font-weight: bold;
+   font-size: 35px;
+   text-decoration: none;
+   color: #FF9400;
+   background-color: transparent;
+}
