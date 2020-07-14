@@ -68,19 +68,6 @@ body
    width: 100%;
    height: 100%;
 }
-#Imgstr3Text
-{
-   border: 0px solid #000000;
-   padding: 0;
-   -webkit-animation: slide-left-in 1000ms ease 1ms 1 normal both;
-   -moz-animation: slide-left-in 1000ms ease 1ms 1 normal both;
-   animation: slide-left-in 1000ms ease 1ms 1 normal both;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
 #ImgstrTDText
 {
    border: 0px solid #000000;
@@ -163,6 +150,14 @@ body
    top: 0;
    width: 100%;
    height: 100%;
+}
+#Layer1
+{
+   background-color: #FF9400;
+   background-image: none;
+   -webkit-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   -moz-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
 }
 #ImgGRB2
 {
@@ -589,16 +584,6 @@ body
 {
    box-shadow: none;
 }
-#ImgstrTD
-{
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
 #LayerTDstr
 {
    background-color: transparent;
@@ -622,4 +607,27 @@ body
    background-color: #FF9400;
    background-image: none;
    opacity: 0.00;
+}
+#ImgstrTD
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image1
+{
+   border: 0px solid #000000;
+   padding: 0;
+   -webkit-animation: slide-left-in 1000ms ease 1ms 1 normal both;
+   -moz-animation: slide-left-in 1000ms ease 1ms 1 normal both;
+   animation: slide-left-in 1000ms ease 1ms 1 normal both;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
 }

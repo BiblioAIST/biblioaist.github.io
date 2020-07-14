@@ -1036,109 +1036,23 @@ body
 {
    box-shadow: none;
 }
-#wb_Text18 
+#StrelkaLevovo5
 {
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
+   border: 0px solid transparent;
    padding: 0;
    margin: 0;
-   text-align: left;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
 }
-#wb_Text18 div
+#StrelkaPravo5
 {
-   text-align: left;
-}
-#wb_Text19 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
+   border: 0px solid transparent;
    padding: 0;
    margin: 0;
-   text-align: left;
-}
-#wb_Text19 div
-{
-   text-align: left;
-}
-#ThemeableButton10
-{
-   font-family: "Century Gothic";
-   font-weight: normal;
-   font-size: 19px;
-   font-style: normal;
-}
-#wb_ThemeableButton10
-{
-   margin: 0;
-}
-#wb_ThemeableButton10 .ui-button
-{
-   margin: 0;
-   padding: 0;
-   line-height: 35px;
-}
-#ThemeableButton10
-{
-   color: #454545;
-   text-decoration: none;
-}
-#ThemeableButton10 :hover
-{
-   color: #2B2B2B;
-}
-#ThemeableButton10 :active
-{
-   color: #FFFFFF;
-}
-#wb_ThemeableButton10 .ui-corner-all, #wb_ThemeableButton10 .ui-corner-left
-{
-   border-bottom-left-radius: 4px;
-   border-top-left-radius: 4px;
-}
-#wb_ThemeableButton10 .ui-corner-all, #wb_ThemeableButton10 .ui-corner-right
-{
-   border-bottom-right-radius: 4px;
-   border-top-right-radius: 4px;
-}
-#wb_ThemeableButton10 .ui-button
-{
-   background-color: #00A1FF;
-   background-image: none;
-   border: 1px solid #C5C5C5;
-   color: #FFFFFF;
-}
-#wb_ThemeableButton10 .ui-state-hover, #wb_ThemeableButton10 .ui-button:hover
-{
-   border-color: #CCCCCC;
-   background-color: #0089FF;
-   background-image: none;
-   color: #FFFFFF;
-}
-#wb_ThemeableButton10 .ui-state-active, #wb_ThemeableButton10 .ui-button:active
-{
-   border-color: #2E6DA4;
-   background-color: #0089FF;
-   background-image: none;
-   color: #FFFFFF;
-}
-#wb_ThemeableButton10 .ui-button .ui-icon
-{
-   background-image: url(images/5страница-ThemeableButton10-default.png);
-   background-position: 0 0;
-}
-#wb_ThemeableButton10 .ui-button:hover .ui-icon
-{
-   background-image: url(images/5страница-ThemeableButton10-hover.png);
-   background-position: 0 0;
-}
-#wb_ThemeableButton10 .ui-button:active .ui-icon
-{
-   background-image: url(images/5страница-ThemeableButton10-active.png);
-   background-position: 0 0;
-}
-#wb_ThemeableButton10 .ui-visual-focus
-{
-   box-shadow: none;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
 }
