@@ -344,6 +344,26 @@ body
 {
    box-shadow: none;
 }
+#StrelkaLevovo5
+{
+   border: 0px solid transparent;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#StrelkaPravo5
+{
+   border: 0px solid transparent;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
 #ThemeableButton2
 {
    font-family: "Century Gothic";
@@ -823,24 +843,4 @@ body
 #wb_ThemeableButton7 .ui-visual-focus
 {
    box-shadow: none;
-}
-#StrelkaLevovo5
-{
-   border: 0px solid transparent;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#StrelkaPravo5
-{
-   border: 0px solid transparent;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
 }
