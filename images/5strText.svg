@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="5strText.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg8"
    version="1.1"
    viewBox="0 0 121.09453 41.794278"
@@ -45,7 +45,7 @@
      inkscape:window-maximized="1"
      inkscape:window-y="-8"
      inkscape:window-x="-8"
-     inkscape:window-height="972"
+     inkscape:window-height="961"
      inkscape:window-width="1280"
      units="px"
      showguides="false"
@@ -53,8 +53,8 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="126.27711"
-     inkscape:cx="265.23451"
+     inkscape:cy="21.68907"
+     inkscape:cx="232.82906"
      inkscape:zoom="1.154038"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -70,7 +70,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -82,10 +82,7 @@
     <g
        style="font-style:normal;font-weight:normal;font-size:47.2099px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff9400;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.18025"
        id="text4840"
-       aria-label="Решения 41 сессий 
-Совета депутатов
-МО «Глазовский район»,
-третьего созыва ">
+       aria-label="Решения 41 сессий  Совета депутатов МО «Глазовский район», третьего созыва ">
       <path
          id="path280"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:start;text-anchor:start;fill:#ff9400;fill-opacity:1;fill-rule:nonzero;stroke-width:1.18025"
@@ -118,10 +115,6 @@
          id="path294"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:start;text-anchor:start;fill:#ff9400;fill-opacity:1;fill-rule:nonzero;stroke-width:1.18025"
          d="m 52.263191,272.70654 h 1.350478 v 4.56751 h 0.63183 v 1.24919 h -0.63183 v 1.45659 H 52.29213 v -1.45659 h -3.096453 v -1.24919 z m 0.02894,4.56751 v -2.37781 l -1.620573,2.37781 z" />
-      <path
-         id="path296"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:start;text-anchor:start;fill:#ff9400;fill-opacity:1;fill-rule:nonzero;stroke-width:1.18025"
-         d="m 56.155463,272.885 h 2.020893 v 7.09483 h -1.340831 v -5.82635 h -1.46141 z" />
       <path
          id="path298"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:start;text-anchor:start;fill:#ff9400;fill-opacity:1;fill-rule:nonzero;stroke-width:1.18025"
@@ -342,6 +335,15 @@
          id="path406"
          style="text-align:start;text-anchor:start"
          d="m 84.501022,307.04424 h 1.311893 v 5.24757 h -1.311893 v -0.55466 q -0.385851,0.36656 -0.776525,0.53055 -0.385851,0.15916 -0.839225,0.15916 -1.017682,0 -1.760444,-0.78617 -0.742763,-0.79099 -0.742763,-1.96301 0,-1.21543 0.718647,-1.99196 0.718647,-0.77652 1.745975,-0.77652 0.472667,0 0.887456,0.17845 0.41479,0.17846 0.766879,0.53537 z m -1.38424,1.08039 q -0.612538,0 -1.017681,0.43408 -0.405144,0.42926 -0.405144,1.1045 0,0.68006 0.409967,1.11896 0.41479,0.43891 1.017681,0.43891 0.622185,0 1.032151,-0.42926 0.409967,-0.43408 0.409967,-1.13344 0,-0.68488 -0.409967,-1.10932 -0.409966,-0.42443 -1.036974,-0.42443 z" />
+    </g>
+    <g
+       aria-label="2"
+       id="text4840-8"
+       style="font-style:normal;font-weight:normal;font-size:47.2099px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff9400;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.18025">
+      <path
+         d="m 56.717768,275.17098 h -1.316714 q 0.05305,-1.1479 0.718646,-1.80385 0.670415,-0.66077 1.717034,-0.66077 0.6463,0 1.138259,0.27492 0.496782,0.2701 0.790993,0.78617 0.299034,0.51126 0.299034,1.0418 0,0.63183 -0.361734,1.36012 -0.356912,0.72829 -1.311892,1.72186 l -0.795816,0.83922 h 2.52732 v 1.24919 h -4.91477 v -0.64629 l 2.194525,-2.23794 q 0.795816,-0.80546 1.056265,-1.2926 0.265272,-0.49196 0.265272,-0.88745 0,-0.40997 -0.274918,-0.67524 -0.270095,-0.2701 -0.699354,-0.2701 -0.434082,0 -0.72347,0.32315 -0.289387,0.32315 -0.30868,0.87781 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777px;line-height:0.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#ff9400;fill-opacity:1;fill-rule:nonzero;stroke-width:1.18025"
+         id="path912" />
     </g>
   </g>
 </svg>
