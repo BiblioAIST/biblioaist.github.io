@@ -1,0 +1,3 @@
+User-agent: *
+Host: https://biblioaist.github.io
+Sitemap: https://biblioaist.github.io/sitemap.xml
