@@ -180,17 +180,56 @@ body
 {
    box-shadow: none;
 }
+#Layer14
+{
+   background-color: transparent;
+   background-image: none;
+}
+#Image2
+{
+   border: 0px solid #000000;
+   padding: 0;
+   -webkit-animation: filter-blur-in 1000ms ease 0ms 1 normal both;
+   -moz-animation: filter-blur-in 1000ms ease 0ms 1 normal both;
+   animation: filter-blur-in 1000ms ease 0ms 1 normal both;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#StrelkaLevovo4
+{
+   border: 0px solid transparent;
+   padding: 0;
+   -webkit-animation: animate-fade-in-right 1000ms linear 0ms 1 normal both;
+   -moz-animation: animate-fade-in-right 1000ms linear 0ms 1 normal both;
+   animation: animate-fade-in-right 1000ms linear 0ms 1 normal both;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#StrelkaPravo4
+{
+   border: 0px solid transparent;
+   padding: 0;
+   -webkit-animation: animate-fade-in-left 1000ms linear 0ms 1 normal both;
+   -moz-animation: animate-fade-in-left 1000ms linear 0ms 1 normal both;
+   animation: animate-fade-in-left 1000ms linear 0ms 1 normal both;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
 #Layer1
 {
    background-color: #00A1FF;
    background-image: none;
 }
-#Layer2
-{
-   background-color: #0089FF;
-   background-image: none;
-}
-#wb_Text2 
+#wb_Text1 
 {
    background-color: transparent;
    background-image: none;
@@ -199,7 +238,7 @@ body
    margin: 0;
    text-align: left;
 }
-#wb_Text2 div
+#wb_Text1 div
 {
    text-align: left;
 }
@@ -283,17 +322,12 @@ body
 {
    box-shadow: none;
 }
-#Layer3
-{
-   background-color: #00A1FF;
-   background-image: none;
-}
-#Layer5
+#Layer2
 {
    background-color: #0089FF;
    background-image: none;
 }
-#wb_Text4 
+#wb_Text2 
 {
    background-color: transparent;
    background-image: none;
@@ -302,11 +336,11 @@ body
    margin: 0;
    text-align: left;
 }
-#wb_Text4 div
+#wb_Text2 div
 {
    text-align: left;
 }
-#wb_Text5 
+#wb_Text6 
 {
    background-color: transparent;
    background-image: none;
@@ -315,110 +349,7 @@ body
    margin: 0;
    text-align: left;
 }
-#wb_Text5 div
-{
-   text-align: left;
-}
-#ThemeableButton3
-{
-   font-family: "Century Gothic";
-   font-weight: normal;
-   font-size: 19px;
-   font-style: normal;
-}
-#wb_ThemeableButton3
-{
-   margin: 0;
-}
-#wb_ThemeableButton3 .ui-button
-{
-   margin: 0;
-   padding: 0;
-   line-height: 35px;
-}
-#ThemeableButton3
-{
-   color: #454545;
-   text-decoration: none;
-}
-#ThemeableButton3 :hover
-{
-   color: #2B2B2B;
-}
-#ThemeableButton3 :active
-{
-   color: #FFFFFF;
-}
-#wb_ThemeableButton3 .ui-corner-all, #wb_ThemeableButton3 .ui-corner-left
-{
-   border-bottom-left-radius: 4px;
-   border-top-left-radius: 4px;
-}
-#wb_ThemeableButton3 .ui-corner-all, #wb_ThemeableButton3 .ui-corner-right
-{
-   border-bottom-right-radius: 4px;
-   border-top-right-radius: 4px;
-}
-#wb_ThemeableButton3 .ui-button
-{
-   background-color: #00A1FF;
-   background-image: none;
-   border: 1px solid #C5C5C5;
-   color: #FFFFFF;
-}
-#wb_ThemeableButton3 .ui-state-hover, #wb_ThemeableButton3 .ui-button:hover
-{
-   border-color: #CCCCCC;
-   background-color: #0089FF;
-   background-image: none;
-   color: #FFFFFF;
-}
-#wb_ThemeableButton3 .ui-state-active, #wb_ThemeableButton3 .ui-button:active
-{
-   border-color: #2E6DA4;
-   background-color: #0089FF;
-   background-image: none;
-   color: #FFFFFF;
-}
-#wb_ThemeableButton3 .ui-button .ui-icon
-{
-   background-image: url(images/4страница-ThemeableButton3-default.png);
-   background-position: 0 0;
-}
-#wb_ThemeableButton3 .ui-button:hover .ui-icon
-{
-   background-image: url(images/4страница-ThemeableButton3-hover.png);
-   background-position: 0 0;
-}
-#wb_ThemeableButton3 .ui-button:active .ui-icon
-{
-   background-image: url(images/4страница-ThemeableButton3-active.png);
-   background-position: 0 0;
-}
-#wb_ThemeableButton3 .ui-visual-focus
-{
-   box-shadow: none;
-}
-#Layer6
-{
-   background-color: #00A1FF;
-   background-image: none;
-}
-#Layer7
-{
-   background-color: #0089FF;
-   background-image: none;
-}
-#wb_Text7 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text7 div
+#wb_Text6 div
 {
    text-align: left;
 }
@@ -502,7 +433,7 @@ body
 {
    box-shadow: none;
 }
-#Layer8
+#Layer7
 {
    background-color: #00A1FF;
    background-image: none;
@@ -511,19 +442,6 @@ body
 {
    background-color: #0089FF;
    background-image: none;
-}
-#wb_Text8 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text8 div
-{
-   text-align: left;
 }
 #wb_Text9 
 {
@@ -535,6 +453,135 @@ body
    text-align: left;
 }
 #wb_Text9 div
+{
+   text-align: left;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text4 div
+{
+   text-align: left;
+}
+#ThemeableButton3
+{
+   font-family: "Century Gothic";
+   font-weight: normal;
+   font-size: 19px;
+   font-style: normal;
+}
+#wb_ThemeableButton3
+{
+   margin: 0;
+}
+#wb_ThemeableButton3 .ui-button
+{
+   margin: 0;
+   padding: 0;
+   line-height: 35px;
+}
+#ThemeableButton3
+{
+   color: #454545;
+   text-decoration: none;
+}
+#ThemeableButton3 :hover
+{
+   color: #2B2B2B;
+}
+#ThemeableButton3 :active
+{
+   color: #FFFFFF;
+}
+#wb_ThemeableButton3 .ui-corner-all, #wb_ThemeableButton3 .ui-corner-left
+{
+   border-bottom-left-radius: 4px;
+   border-top-left-radius: 4px;
+}
+#wb_ThemeableButton3 .ui-corner-all, #wb_ThemeableButton3 .ui-corner-right
+{
+   border-bottom-right-radius: 4px;
+   border-top-right-radius: 4px;
+}
+#wb_ThemeableButton3 .ui-button
+{
+   background-color: #00A1FF;
+   background-image: none;
+   border: 1px solid #C5C5C5;
+   color: #FFFFFF;
+}
+#wb_ThemeableButton3 .ui-state-hover, #wb_ThemeableButton3 .ui-button:hover
+{
+   border-color: #CCCCCC;
+   background-color: #0089FF;
+   background-image: none;
+   color: #FFFFFF;
+}
+#wb_ThemeableButton3 .ui-state-active, #wb_ThemeableButton3 .ui-button:active
+{
+   border-color: #2E6DA4;
+   background-color: #0089FF;
+   background-image: none;
+   color: #FFFFFF;
+}
+#wb_ThemeableButton3 .ui-button .ui-icon
+{
+   background-image: url(images/4страница-ThemeableButton3-default.png);
+   background-position: 0 0;
+}
+#wb_ThemeableButton3 .ui-button:hover .ui-icon
+{
+   background-image: url(images/4страница-ThemeableButton3-hover.png);
+   background-position: 0 0;
+}
+#wb_ThemeableButton3 .ui-button:active .ui-icon
+{
+   background-image: url(images/4страница-ThemeableButton3-active.png);
+   background-position: 0 0;
+}
+#wb_ThemeableButton3 .ui-visual-focus
+{
+   box-shadow: none;
+}
+#Layer3
+{
+   background-color: #00A1FF;
+   background-image: none;
+}
+#Layer5
+{
+   background-color: #0089FF;
+   background-image: none;
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text5 div
+{
+   text-align: left;
+}
+#wb_Text7 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text7 div
 {
    text-align: left;
 }
@@ -618,51 +665,17 @@ body
 {
    box-shadow: none;
 }
-#Layer14
+#Layer6
 {
-   background-color: transparent;
+   background-color: #00A1FF;
    background-image: none;
 }
-#Image2
+#Layer8
 {
-   border: 0px solid #000000;
-   padding: 0;
-   -webkit-animation: filter-blur-in 1000ms ease 0ms 1 normal both;
-   -moz-animation: filter-blur-in 1000ms ease 0ms 1 normal both;
-   animation: filter-blur-in 1000ms ease 0ms 1 normal both;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
+   background-color: #0089FF;
+   background-image: none;
 }
-#StrelkaLevovo4
-{
-   border: 0px solid transparent;
-   padding: 0;
-   -webkit-animation: animate-fade-in-right 1000ms linear 0ms 1 normal both;
-   -moz-animation: animate-fade-in-right 1000ms linear 0ms 1 normal both;
-   animation: animate-fade-in-right 1000ms linear 0ms 1 normal both;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#StrelkaPravo4
-{
-   border: 0px solid transparent;
-   padding: 0;
-   -webkit-animation: animate-fade-in-left 1000ms linear 0ms 1 normal both;
-   -moz-animation: animate-fade-in-left 1000ms linear 0ms 1 normal both;
-   animation: animate-fade-in-left 1000ms linear 0ms 1 normal both;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#wb_Text12 
+#wb_Text8 
 {
    background-color: transparent;
    background-image: none;
@@ -671,20 +684,7 @@ body
    margin: 0;
    text-align: left;
 }
-#wb_Text12 div
-{
-   text-align: left;
-}
-#wb_Text10 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text10 div
+#wb_Text8 div
 {
    text-align: left;
 }
