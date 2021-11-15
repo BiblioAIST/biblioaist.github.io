@@ -158,8 +158,8 @@ input:focus, textarea:focus, select:focus
 }
 a.style1
 {
-   color: #4169E1;
-   text-decoration: none;
+   color: #669DFF;
+   text-decoration: underline;
 }
 a.style1:visited
 {
