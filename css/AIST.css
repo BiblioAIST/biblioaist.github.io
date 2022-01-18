@@ -179,22 +179,22 @@ a.style1:hover
 a.style2
 {
    color: #4169E1;
-   text-decoration: underline;
+   text-decoration: none;
 }
 a.style2:visited
 {
    color: #4169E1;
-   text-decoration: underline;
+   text-decoration: none;
 }
 a.style2:active
 {
    color: #4169E1;
-   text-decoration: underline;
+   text-decoration: none;
 }
 a.style2:hover
 {
    color: #1E90FF;
-   text-decoration: underline;
+   text-decoration: none;
 }
 h1, .h1
 {
