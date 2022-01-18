@@ -55,19 +55,6 @@ body
    width: 100%;
    height: 100%;
 }
-#Imgstr4Text
-{
-   border: 0px solid #000000;
-   padding: 0;
-   -webkit-animation: slide-right-in 1000ms ease 1ms 1 normal both;
-   -moz-animation: slide-right-in 1000ms ease 1ms 1 normal both;
-   animation: slide-right-in 1000ms ease 1ms 1 normal both;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
 #ImgstrTDText
 {
    border: 0px solid #000000;
@@ -617,6 +604,19 @@ body
 {
    border: 0px solid #000000;
    padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image2
+{
+   border: 0px solid #000000;
+   padding: 0;
+   -webkit-animation: slide-right-in 1000ms ease 1ms 1 normal both;
+   -moz-animation: slide-right-in 1000ms ease 1ms 1 normal both;
+   animation: slide-right-in 1000ms ease 1ms 1 normal both;
    margin: 0;
    left: 0;
    top: 0;
