@@ -92,8 +92,8 @@ body
 }
 #Layer1
 {
-   background-color: #FBFBFB;
-   background: linear-gradient(to top, #FBFBFB 0%, #E7C095 100%);
+   background-color: #A08C4B;
+   background: linear-gradient(to top, rgba(160,140,75,0.48) 0%, #FBFBFB 100%);
 }
 #wb_Text10 
 {
