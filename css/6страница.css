@@ -92,8 +92,8 @@ body
 }
 #Layer2
 {
-   background-color: #0280D7;
-   background: linear-gradient(to top, rgba(2,128,215,0.48) 0%, #FBFBFB 100%);
+   background-color: #EBE5D9;
+   background: linear-gradient(to top, rgba(235,229,217,0.48) 0%, #FBFBFB 100%);
 }
 #Layer1
 {
@@ -114,16 +114,6 @@ body
    text-align: left;
 }
 #Image1
-{
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#Image2
 {
    border: 0px solid #000000;
    padding: 0;
