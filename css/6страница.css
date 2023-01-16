@@ -16,6 +16,36 @@ body
    margin: 0;
    text-align: center;
 }
+#Layer15
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+#Layer12
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+#Layer11
+{
+   background-color: transparent;
+   background-image: none;
+}
+#Layer10
+{
+   background-color: transparent;
+   background-image: none;
+}
+#Layer9
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+#Layer8
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
 #LayerPodShapkoy
 {
    background-color: #FF9400;
@@ -77,6 +107,148 @@ body
    width: 100%;
    height: 100%;
 }
+#LayerDlayText
+{
+   background-color: #00A1FF;
+   background-image: none;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
+#wb_Text1_2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1_2 div
+{
+   text-align: left;
+}
+#Layer1
+{
+   background-color: #00A1FF;
+   background-image: none;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text2 div
+{
+   text-align: left;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text3 div
+{
+   text-align: left;
+}
+#Layer2
+{
+   background-color: #00A1FF;
+   background-image: none;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text4 div
+{
+   text-align: left;
+}
+#Layer3
+{
+   background-color: #00A1FF;
+   background-image: none;
+}
+#wb_Text6 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text6 div
+{
+   text-align: left;
+}
+#wb_Text7 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text7 div
+{
+   text-align: left;
+}
+#Layer7
+{
+   background-color: #00A1FF;
+   background-image: none;
+}
+#wb_Text12 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text12 div
+{
+   text-align: left;
+}
+#wb_Text13 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text13 div
+{
+   text-align: left;
+}
 #StrelkaLevovo6
 {
    border: 0px solid transparent;
@@ -90,23 +262,15 @@ body
    width: 100%;
    height: 100%;
 }
-#Layer1
+#Image2_6
 {
-   background-color: transparent;
-   background-image: none;
-}
-#wb_Text10 
-{
-   background-color: transparent;
-   background-image: none;
    border: 0px solid #000000;
    padding: 0;
    margin: 0;
-   text-align: left;
-}
-#wb_Text10 div
-{
-   text-align: left;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
 }
 #Image1
 {
@@ -118,7 +282,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image1_6strjpg
+#Image3_6
 {
    border: 0px solid #000000;
    padding: 0;
@@ -128,7 +292,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image2_6strjpg
+#Image4_6
 {
    border: 0px solid #000000;
    padding: 0;
@@ -138,7 +302,7 @@ body
    width: 100%;
    height: 100%;
 }
-#Image3_6strjpg
+#Image5_6
 {
    border: 0px solid #000000;
    padding: 0;
@@ -148,29 +312,16 @@ body
    width: 100%;
    height: 100%;
 }
-#Layer2
+#wb_Text5 
 {
    background-color: transparent;
    background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
 }
-#Layer1_6strjpg
+#wb_Text5 div
 {
-   background-color: transparent;
-   background-image: url(../images/1_6strjpg.jpg);
-   background-repeat: no-repeat;
-   background-position: center top;
-}
-#Layer2_6strjpg
-{
-   background-color: transparent;
-   background-image: url(../images/2_6strjpg.jpg);
-   background-repeat: no-repeat;
-   background-position: center top;
-}
-#Layer3_6strjpg
-{
-   background-color: transparent;
-   background-image: url(../images/3_6strjpg.jpg);
-   background-repeat: no-repeat;
-   background-position: center top;
+   text-align: left;
 }
