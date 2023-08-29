@@ -95,27 +95,6 @@ body
    background-color: transparent;
    background-image: none;
 }
-#Layer1_6strjpg
-{
-   background-color: transparent;
-   background-image: url(../images/1_6strjpg.jpg);
-   background-repeat: no-repeat;
-   background-position: center top;
-}
-#Layer3_6strjpg
-{
-   background-color: transparent;
-   background-image: url(../images/3_6strjpg.jpg);
-   background-repeat: no-repeat;
-   background-position: center center;
-}
-#Layer2_6strjpg
-{
-   background-color: transparent;
-   background-image: url(../images/2_6strjpg.jpg);
-   background-repeat: no-repeat;
-   background-position: center center;
-}
 #wb_Text1 
 {
    background-color: transparent;
