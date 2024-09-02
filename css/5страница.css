@@ -16,9 +16,14 @@ body
    margin: 0;
    text-align: center;
 }
+#wb_ImgLogo2
+{
+   vertical-align: top;
+}
 #ImgLogo2
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
@@ -30,18 +35,23 @@ body
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
-   -moz-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   border-radius: 0px;
    animation: slide-right-in 500ms ease-out 0ms 1 normal both;
 }
 #Layer2str
 {
    background-color: #0089FF;
    background-image: none;
+   border-radius: 0px;
+}
+#wb_Imgstr2_2
+{
+   vertical-align: top;
 }
 #Imgstr2_2
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
@@ -53,12 +63,14 @@ body
 {
    background-color: transparent;
    background-image: none;
+   border-radius: 0px;
 }
 #wb_Text1_2 
 {
    background-color: transparent;
    background-image: none;
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    text-align: left;
@@ -71,17 +83,20 @@ body
 {
    background-color: #FF9400;
    background-image: none;
+   border-radius: 0px;
 }
 #LayerPodShapkoyNiz
 {
    background-color: #FF9400;
    background-image: none;
+   border-radius: 0px;
 }
 #wb_Text1 
 {
    background-color: transparent;
    background-image: none;
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    text-align: left;
@@ -95,6 +110,7 @@ body
    background-color: transparent;
    background-image: none;
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    text-align: left;
@@ -108,6 +124,7 @@ body
    background-color: transparent;
    background-image: none;
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    text-align: left;
@@ -120,13 +137,17 @@ body
 {
    background-color: #FFFFFF;
    background-image: none;
+   border-radius: 0px;
+}
+#wb_Image1
+{
+   vertical-align: top;
 }
 #Image1
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
-   -webkit-animation: filter-blur-in 1000ms ease 0ms 1 normal both;
-   -moz-animation: filter-blur-in 1000ms ease 0ms 1 normal both;
    animation: filter-blur-in 1000ms ease 0ms 1 normal both;
    margin: 0;
    left: 0;
@@ -140,29 +161,36 @@ body
    font-weight: normal;
    font-size: 19px;
    font-style: normal;
+   display: inline-block;
+   position: relative;
+   vertical-align: middle;
+   user-select: none;
+   overflow: visible;
+   text-decoration: none;
+   cursor: pointer;
 }
 #wb_ThemeableButton1
 {
+   border-radius: 4px;
    margin: 0;
-}
-#wb_ThemeableButton1 .ui-button
-{
-   margin: 0;
-   padding: 0;
-   line-height: 35px;
+   vertical-align: top;
 }
 #ThemeableButton1
 {
-   color: #454545;
-   text-decoration: none;
+   box-sizing: border-box;
+   padding: 0;
+   text-align: center;
 }
-#ThemeableButton1 :hover
+#wb_ThemeableButton1 .ui-button
 {
-   color: #2B2B2B;
+   display: flex;
+   align-items: center;
+   margin: 0;
+   justify-content: center;
 }
-#ThemeableButton1 :active
+#ThemeableButton1
 {
-   color: #FFFFFF;
+   color: inherit;
 }
 #wb_ThemeableButton1 .ui-corner-all, #wb_ThemeableButton1 .ui-corner-left
 {
@@ -195,28 +223,14 @@ body
    background-image: none;
    color: #FFFFFF;
 }
-#wb_ThemeableButton1 .ui-button .ui-icon
+#wb_StrelkaLevovo5
 {
-   background-image: url(images/5страница-ThemeableButton1-default.png);
-   background-position: 0 0;
-}
-#wb_ThemeableButton1 .ui-button:hover .ui-icon
-{
-   background-image: url(images/5страница-ThemeableButton1-hover.png);
-   background-position: 0 0;
-}
-#wb_ThemeableButton1 .ui-button:active .ui-icon
-{
-   background-image: url(images/5страница-ThemeableButton1-active.png);
-   background-position: 0 0;
-}
-#wb_ThemeableButton1 .ui-visual-focus
-{
-   box-shadow: none;
+   vertical-align: top;
 }
 #StrelkaLevovo5
 {
    border: 0px solid transparent;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
@@ -224,9 +238,14 @@ body
    width: 100%;
    height: 100%;
 }
+#wb_StrelkaPravo5
+{
+   vertical-align: top;
+}
 #StrelkaPravo5
 {
    border: 0px solid transparent;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
@@ -240,29 +259,36 @@ body
    font-weight: normal;
    font-size: 19px;
    font-style: normal;
+   display: inline-block;
+   position: relative;
+   vertical-align: middle;
+   user-select: none;
+   overflow: visible;
+   text-decoration: none;
+   cursor: pointer;
 }
 #wb_ThemeableButton3
 {
+   border-radius: 4px;
    margin: 0;
-}
-#wb_ThemeableButton3 .ui-button
-{
-   margin: 0;
-   padding: 0;
-   line-height: 35px;
+   vertical-align: top;
 }
 #ThemeableButton3
 {
-   color: #454545;
-   text-decoration: none;
+   box-sizing: border-box;
+   padding: 0;
+   text-align: center;
 }
-#ThemeableButton3 :hover
+#wb_ThemeableButton3 .ui-button
 {
-   color: #2B2B2B;
+   display: flex;
+   align-items: center;
+   margin: 0;
+   justify-content: center;
 }
-#ThemeableButton3 :active
+#ThemeableButton3
 {
-   color: #FFFFFF;
+   color: inherit;
 }
 #wb_ThemeableButton3 .ui-corner-all, #wb_ThemeableButton3 .ui-corner-left
 {
@@ -295,30 +321,12 @@ body
    background-image: none;
    color: #FFFFFF;
 }
-#wb_ThemeableButton3 .ui-button .ui-icon
-{
-   background-image: url(images/5страница-ThemeableButton3-default.png);
-   background-position: 0 0;
-}
-#wb_ThemeableButton3 .ui-button:hover .ui-icon
-{
-   background-image: url(images/5страница-ThemeableButton3-hover.png);
-   background-position: 0 0;
-}
-#wb_ThemeableButton3 .ui-button:active .ui-icon
-{
-   background-image: url(images/5страница-ThemeableButton3-active.png);
-   background-position: 0 0;
-}
-#wb_ThemeableButton3 .ui-visual-focus
-{
-   box-shadow: none;
-}
 #wb_Text6 
 {
    background-color: transparent;
    background-image: none;
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    text-align: left;
@@ -332,6 +340,7 @@ body
    background-color: transparent;
    background-image: none;
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    text-align: left;
@@ -346,29 +355,36 @@ body
    font-weight: normal;
    font-size: 19px;
    font-style: normal;
+   display: inline-block;
+   position: relative;
+   vertical-align: middle;
+   user-select: none;
+   overflow: visible;
+   text-decoration: none;
+   cursor: pointer;
 }
 #wb_ThemeableButton4
 {
+   border-radius: 4px;
    margin: 0;
-}
-#wb_ThemeableButton4 .ui-button
-{
-   margin: 0;
-   padding: 0;
-   line-height: 35px;
+   vertical-align: top;
 }
 #ThemeableButton4
 {
-   color: #454545;
-   text-decoration: none;
+   box-sizing: border-box;
+   padding: 0;
+   text-align: center;
 }
-#ThemeableButton4 :hover
+#wb_ThemeableButton4 .ui-button
 {
-   color: #2B2B2B;
+   display: flex;
+   align-items: center;
+   margin: 0;
+   justify-content: center;
 }
-#ThemeableButton4 :active
+#ThemeableButton4
 {
-   color: #FFFFFF;
+   color: inherit;
 }
 #wb_ThemeableButton4 .ui-corner-all, #wb_ThemeableButton4 .ui-corner-left
 {
@@ -401,30 +417,12 @@ body
    background-image: none;
    color: #FFFFFF;
 }
-#wb_ThemeableButton4 .ui-button .ui-icon
-{
-   background-image: url(images/5страница-ThemeableButton4-default.png);
-   background-position: 0 0;
-}
-#wb_ThemeableButton4 .ui-button:hover .ui-icon
-{
-   background-image: url(images/5страница-ThemeableButton4-hover.png);
-   background-position: 0 0;
-}
-#wb_ThemeableButton4 .ui-button:active .ui-icon
-{
-   background-image: url(images/5страница-ThemeableButton4-active.png);
-   background-position: 0 0;
-}
-#wb_ThemeableButton4 .ui-visual-focus
-{
-   box-shadow: none;
-}
 #wb_Text8 
 {
    background-color: transparent;
    background-image: none;
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    text-align: left;
@@ -438,6 +436,7 @@ body
    background-color: transparent;
    background-image: none;
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    text-align: left;
@@ -452,29 +451,36 @@ body
    font-weight: normal;
    font-size: 19px;
    font-style: normal;
+   display: inline-block;
+   position: relative;
+   vertical-align: middle;
+   user-select: none;
+   overflow: visible;
+   text-decoration: none;
+   cursor: pointer;
 }
 #wb_ThemeableButton5
 {
+   border-radius: 4px;
    margin: 0;
-}
-#wb_ThemeableButton5 .ui-button
-{
-   margin: 0;
-   padding: 0;
-   line-height: 35px;
+   vertical-align: top;
 }
 #ThemeableButton5
 {
-   color: #454545;
-   text-decoration: none;
+   box-sizing: border-box;
+   padding: 0;
+   text-align: center;
 }
-#ThemeableButton5 :hover
+#wb_ThemeableButton5 .ui-button
 {
-   color: #2B2B2B;
+   display: flex;
+   align-items: center;
+   margin: 0;
+   justify-content: center;
 }
-#ThemeableButton5 :active
+#ThemeableButton5
 {
-   color: #FFFFFF;
+   color: inherit;
 }
 #wb_ThemeableButton5 .ui-corner-all, #wb_ThemeableButton5 .ui-corner-left
 {
@@ -506,23 +512,4 @@ body
    background-color: #0089FF;
    background-image: none;
    color: #FFFFFF;
-}
-#wb_ThemeableButton5 .ui-button .ui-icon
-{
-   background-image: url(images/5страница-ThemeableButton5-default.png);
-   background-position: 0 0;
-}
-#wb_ThemeableButton5 .ui-button:hover .ui-icon
-{
-   background-image: url(images/5страница-ThemeableButton5-hover.png);
-   background-position: 0 0;
-}
-#wb_ThemeableButton5 .ui-button:active .ui-icon
-{
-   background-image: url(images/5страница-ThemeableButton5-active.png);
-   background-position: 0 0;
-}
-#wb_ThemeableButton5 .ui-visual-focus
-{
-   box-shadow: none;
 }

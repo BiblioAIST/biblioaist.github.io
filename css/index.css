@@ -20,10 +20,16 @@ body
 {
    background-color: #0089FF;
    background-image: none;
+   border-radius: 0px;
+}
+#wb_Imgstr4
+{
+   vertical-align: top;
 }
 #Imgstr4
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
@@ -31,12 +37,15 @@ body
    width: 100%;
    height: 100%;
 }
+#wb_Imgstr2Text
+{
+   vertical-align: top;
+}
 #Imgstr2Text
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
-   -webkit-animation: slide-right-in 1000ms ease 1ms 1 normal both;
-   -moz-animation: slide-right-in 1000ms ease 1ms 1 normal both;
    animation: slide-right-in 1000ms ease 1ms 1 normal both;
    margin: 0;
    left: 0;
@@ -44,12 +53,15 @@ body
    width: 100%;
    height: 100%;
 }
+#wb_Imgstr6Text
+{
+   vertical-align: top;
+}
 #Imgstr6Text
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
-   -webkit-animation: slide-right-in 1000ms ease 0ms 1 normal both;
-   -moz-animation: slide-right-in 1000ms ease 0ms 1 normal both;
    animation: slide-right-in 1000ms ease 0ms 1 normal both;
    margin: 0;
    left: 0;
@@ -57,12 +69,15 @@ body
    width: 100%;
    height: 100%;
 }
+#wb_Imgstr5Text
+{
+   vertical-align: top;
+}
 #Imgstr5Text
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
-   -webkit-animation: slide-left-in 1000ms ease 1ms 1 normal both;
-   -moz-animation: slide-left-in 1000ms ease 1ms 1 normal both;
    animation: slide-left-in 1000ms ease 1ms 1 normal both;
    margin: 0;
    left: 0;
@@ -70,12 +85,15 @@ body
    width: 100%;
    height: 100%;
 }
+#wb_ImgstrTDText
+{
+   vertical-align: top;
+}
 #ImgstrTDText
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
-   -webkit-animation: slide-left-in 1000ms ease 1ms 1 normal both;
-   -moz-animation: slide-left-in 1000ms ease 1ms 1 normal both;
    animation: slide-left-in 1000ms ease 1ms 1 normal both;
    margin: 0;
    left: 0;
@@ -88,6 +106,7 @@ body
    background-color: transparent;
    background-image: none;
    border: 0px solid transparent;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    text-align: left;
@@ -99,73 +118,106 @@ body
 #shapkaFon
 {
    background-color: transparent;
-   background-image: url(../images/shapkaFon.jpg);
+   background-image: url('../images/shapkaFon.jpg');
    background-repeat: no-repeat;
    background-position: left top;
+   border-radius: 0px;
 }
 #LayerTextShapka
 {
    background-color: transparent;
    background-image: none;
+   border-radius: 0px;
 }
 #LayerPodShapkoy
 {
    background-color: #FF9400;
    background-image: none;
+   border-radius: 0px;
+}
+#wb_ImgLogo
+{
+   vertical-align: top;
 }
 #ImgLogo
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
    top: 0;
    width: 100%;
    height: 100%;
+}
+#wb_ImgUspeh
+{
+   vertical-align: top;
 }
 #ImgUspeh
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
    top: 0;
    width: 100%;
    height: 100%;
+}
+#wb_ImgNomer
+{
+   vertical-align: top;
 }
 #ImgNomer
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
    top: 0;
    width: 100%;
    height: 100%;
+}
+#wb_ImgGRB
+{
+   vertical-align: top;
 }
 #ImgGRB
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
    top: 0;
    width: 100%;
    height: 100%;
+}
+#wb_ImgGRB2
+{
+   vertical-align: top;
 }
 #ImgGRB2
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
    top: 0;
    width: 100%;
    height: 100%;
+}
+#wb_ImgGRB3
+{
+   vertical-align: top;
 }
 #ImgGRB3
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
@@ -173,9 +225,14 @@ body
    width: 100%;
    height: 100%;
 }
+#wb_ImgGRB4
+{
+   vertical-align: top;
+}
 #ImgGRB4
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
@@ -187,23 +244,29 @@ body
 {
    background-color: transparent;
    background-image: none;
+   border-radius: 0px;
 }
 #Layer2strpodl
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
-   -moz-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   border-radius: 0px;
    animation: slide-right-in 500ms ease-out 0ms 1 normal both;
 }
 #Layer2str
 {
    background-color: #0089FF;
    background-image: none;
+   border-radius: 0px;
+}
+#wb_Imgstr2
+{
+   vertical-align: top;
 }
 #Imgstr2
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
@@ -215,34 +278,37 @@ body
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
-   -moz-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   border-radius: 0px;
    animation: slide-left-in 500ms ease-out 0ms 1 normal both;
 }
 #Layer4strpodl
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
-   -moz-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   border-radius: 0px;
    animation: slide-right-in 500ms ease-out 0ms 1 normal both;
 }
 #Layer5strpodl
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
-   -moz-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   border-radius: 0px;
    animation: slide-left-in 500ms ease-out 0ms 1 normal both;
 }
 #Layer5str
 {
    background-color: #0089FF;
    background-image: none;
+   border-radius: 0px;
+}
+#wb_Imgstr5
+{
+   vertical-align: top;
 }
 #Imgstr5
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
@@ -254,18 +320,23 @@ body
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
-   -moz-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   border-radius: 0px;
    animation: slide-right-in 500ms ease-out 0ms 1 normal both;
 }
 #Layer6str
 {
    background-color: #0089FF;
    background-image: none;
+   border-radius: 0px;
+}
+#wb_Imgstr6
+{
+   vertical-align: top;
 }
 #Imgstr6
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
@@ -277,85 +348,127 @@ body
 {
    background-color: #00A1FF;
    background-image: none;
+   border-radius: 0px;
 }
 #LayerPodShapkoyNiz
 {
    background-color: #FF9400;
    background-image: none;
+   border-radius: 0px;
+}
+#wb_ImgGRB5
+{
+   vertical-align: top;
 }
 #ImgGRB5
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
    top: 0;
    width: 100%;
    height: 100%;
+}
+#wb_ImgGRB6
+{
+   vertical-align: top;
 }
 #ImgGRB6
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
    top: 0;
    width: 100%;
    height: 100%;
+}
+#wb_ImgGRB8
+{
+   vertical-align: top;
 }
 #ImgGRB8
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
    top: 0;
    width: 100%;
    height: 100%;
+}
+#wb_ImgVKlogo
+{
+   vertical-align: top;
 }
 #ImgVKlogo
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
    top: 0;
    width: 100%;
    height: 100%;
+}
+#wb_ImgVKtext
+{
+   vertical-align: top;
 }
 #ImgVKtext
 {
    border: 0px solid transparent;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
    top: 0;
    width: 100%;
    height: 100%;
+}
+#wb_ImgSaitText
+{
+   vertical-align: top;
 }
 #ImgSaitText
 {
    border: 0px solid transparent;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
    top: 0;
    width: 100%;
    height: 100%;
+}
+#wb_Imggrcbs
+{
+   vertical-align: top;
 }
 #Imggrcbs
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
    top: 0;
    width: 100%;
    height: 100%;
+}
+#wb_ImgTelText
+{
+   vertical-align: top;
 }
 #ImgTelText
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
@@ -363,9 +476,14 @@ body
    width: 100%;
    height: 100%;
 }
+#wb_ImgLogoTel
+{
+   vertical-align: top;
+}
 #ImgLogoTel
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
@@ -377,80 +495,105 @@ body
 {
    background-color: #FF9400;
    background-image: none;
+   border-radius: 0px;
    opacity: 0.00;
 }
 #Layer2strVerhSylka
 {
    background-color: transparent;
    background-image: none;
+   border-radius: 0px;
 }
 #Layer3strVerhSylka
 {
    background-color: transparent;
    background-image: none;
+   border-radius: 0px;
 }
 #LayerCherta3
 {
    background-color: #FF9400;
    background-image: none;
+   border-radius: 0px;
    opacity: 0.00;
 }
 #LayerCherta4
 {
    background-color: #FF9400;
    background-image: none;
+   border-radius: 0px;
    opacity: 0.00;
 }
 #LayerCherta5
 {
    background-color: #FF9400;
    background-image: none;
+   border-radius: 0px;
    opacity: 0.00;
 }
 #LayerCherta6
 {
    background-color: #FF9400;
    background-image: none;
+   border-radius: 0px;
    opacity: 0.00;
 }
 #Layer4strVerhSylka
 {
    background-color: transparent;
    background-image: none;
+   border-radius: 0px;
 }
 #Layer5strVerhSylka
 {
    background-color: transparent;
    background-image: none;
+   border-radius: 0px;
 }
 #Layer6strVerhSylka
 {
    background-color: transparent;
    background-image: none;
+   border-radius: 0px;
+}
+#wb_ImgPolitikaK
+{
+   vertical-align: top;
 }
 #ImgPolitikaK
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
    top: 0;
    width: 100%;
    height: 100%;
+}
+#wb_ImgEmailText
+{
+   vertical-align: top;
 }
 #ImgEmailText
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
    top: 0;
    width: 100%;
    height: 100%;
+}
+#wb_ImgEmailLogo
+{
+   vertical-align: top;
 }
 #ImgEmailLogo
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
@@ -458,9 +601,14 @@ body
    width: 100%;
    height: 100%;
 }
+#wb_ImgGRB7
+{
+   vertical-align: top;
+}
 #ImgGRB7
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
@@ -474,29 +622,36 @@ body
    font-weight: normal;
    font-size: 19px;
    font-style: normal;
+   display: inline-block;
+   position: relative;
+   vertical-align: middle;
+   user-select: none;
+   overflow: visible;
+   text-decoration: none;
+   cursor: pointer;
 }
 #wb_ThemeableButton1
 {
+   border-radius: 8px;
    margin: 0;
-}
-#wb_ThemeableButton1 .ui-button
-{
-   margin: 0;
-   padding: 0;
-   line-height: 37px;
+   vertical-align: top;
 }
 #ThemeableButton1
 {
-   color: #454545;
-   text-decoration: none;
+   box-sizing: border-box;
+   padding: 0;
+   text-align: center;
 }
-#ThemeableButton1 :hover
+#wb_ThemeableButton1 .ui-button
 {
-   color: #2B2B2B;
+   display: flex;
+   align-items: center;
+   margin: 0;
+   justify-content: center;
 }
-#ThemeableButton1 :active
+#ThemeableButton1
 {
-   color: #FFFFFF;
+   color: inherit;
 }
 #wb_ThemeableButton1 .ui-corner-all, #wb_ThemeableButton1 .ui-corner-left
 {
@@ -529,52 +684,40 @@ body
    background-image: none;
    color: #FFFFFF;
 }
-#wb_ThemeableButton1 .ui-button .ui-icon
-{
-   background-image: url(images/index-ThemeableButton1-default.png);
-   background-position: 0 0;
-}
-#wb_ThemeableButton1 .ui-button:hover .ui-icon
-{
-   background-image: url(images/index-ThemeableButton1-hover.png);
-   background-position: 0 0;
-}
-#wb_ThemeableButton1 .ui-button:active .ui-icon
-{
-   background-image: url(images/index-ThemeableButton1-active.png);
-   background-position: 0 0;
-}
-#wb_ThemeableButton1 .ui-visual-focus
-{
-   box-shadow: none;
-}
 #LayerTDstr
 {
    background-color: transparent;
    background-image: none;
+   border-radius: 0px;
 }
 #LayerTDstrVerhSylka
 {
    background-color: #0089FF;
    background-image: none;
+   border-radius: 0px;
 }
 #LayerTDstrpodl
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
-   -moz-animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+   border-radius: 0px;
    animation: slide-left-in 500ms ease-out 0ms 1 normal both;
 }
 #LayerChertaTD
 {
    background-color: #FF9400;
    background-image: none;
+   border-radius: 0px;
    opacity: 0.00;
+}
+#wb_ImgstrTD
+{
+   vertical-align: top;
 }
 #ImgstrTD
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
@@ -582,12 +725,15 @@ body
    width: 100%;
    height: 100%;
 }
+#wb_Imgstr3Text
+{
+   vertical-align: top;
+}
 #Imgstr3Text
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
-   -webkit-animation: slide-left-in 1000ms ease 1ms 1 normal both;
-   -moz-animation: slide-left-in 1000ms ease 1ms 1 normal both;
    animation: slide-left-in 1000ms ease 1ms 1 normal both;
    margin: 0;
    left: 0;
@@ -599,13 +745,17 @@ body
 {
    background-color: #0089FF;
    background-image: none;
+   border-radius: 0px;
+}
+#wb_Image2
+{
+   vertical-align: top;
 }
 #Image2
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
-   -webkit-animation: slide-right-in 1000ms ease 1ms 1 normal both;
-   -moz-animation: slide-right-in 1000ms ease 1ms 1 normal both;
    animation: slide-right-in 1000ms ease 1ms 1 normal both;
    margin: 0;
    left: 0;
@@ -617,10 +767,16 @@ body
 {
    background-color: transparent;
    background-image: none;
+   border-radius: 0px;
+}
+#wb_Image3
+{
+   vertical-align: top;
 }
 #Image3
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
