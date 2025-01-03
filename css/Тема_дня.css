@@ -16,9 +16,14 @@ body
    margin: 0;
    text-align: center;
 }
+#wb_ImgLogo2
+{
+   vertical-align: top;
+}
 #ImgLogo2
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
@@ -30,33 +35,41 @@ body
 {
    background-color: #FF9400;
    background-image: none;
-   -webkit-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
-   -moz-animation: slide-right-in 500ms ease-out 0ms 1 normal both;
+   border-radius: 0px;
    animation: slide-right-in 500ms ease-out 0ms 1 normal both;
 }
 #Layer2str
 {
    background-color: #0089FF;
    background-image: none;
+   border-radius: 0px;
 }
 #Layer2strVerhSylka
 {
    background-color: transparent;
    background-image: none;
+   border-radius: 0px;
 }
 #LayerPodShapkoy
 {
    background-color: #FF9400;
    background-image: none;
+   border-radius: 0px;
 }
 #LayerPodShapkoyNiz
 {
    background-color: #FF9400;
    background-image: none;
+   border-radius: 0px;
+}
+#wb_ImgstrTD
+{
+   vertical-align: top;
 }
 #ImgstrTD
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    left: 0;
@@ -64,12 +77,15 @@ body
    width: 100%;
    height: 100%;
 }
+#wb_ImgstrTDText
+{
+   vertical-align: top;
+}
 #ImgstrTDText
 {
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
-   -webkit-animation: filter-blur-in 1000ms ease 1ms 1 normal both;
-   -moz-animation: filter-blur-in 1000ms ease 1ms 1 normal both;
    animation: filter-blur-in 1000ms ease 1ms 1 normal both;
    margin: 0;
    left: 0;
@@ -81,13 +97,17 @@ body
 {
    background-color: #FFFFFF;
    background-image: none;
+   border-radius: 0px;
+}
+#wb_StrelkaLevovo1
+{
+   vertical-align: top;
 }
 #StrelkaLevovo1
 {
    border: 0px solid transparent;
+   border-radius: 0px;
    padding: 0;
-   -webkit-animation: animate-fade-in-right 1000ms linear 0ms 1 normal both;
-   -moz-animation: animate-fade-in-right 1000ms linear 0ms 1 normal both;
    animation: animate-fade-in-right 1000ms linear 0ms 1 normal both;
    margin: 0;
    left: 0;
@@ -95,12 +115,15 @@ body
    width: 100%;
    height: 100%;
 }
+#wb_StrelkaPravo1
+{
+   vertical-align: top;
+}
 #StrelkaPravo1
 {
    border: 0px solid transparent;
+   border-radius: 0px;
    padding: 0;
-   -webkit-animation: animate-fade-in-left 1000ms linear 0ms 1 normal both;
-   -moz-animation: animate-fade-in-left 1000ms linear 0ms 1 normal both;
    animation: animate-fade-in-left 1000ms linear 0ms 1 normal both;
    margin: 0;
    left: 0;
@@ -108,24 +131,12 @@ body
    width: 100%;
    height: 100%;
 }
-#wb_Text2 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: center;
-}
-#wb_Text2 div
-{
-   text-align: center;
-}
 #wb_Text1 
 {
    background-color: transparent;
    background-image: none;
    border: 0px solid #000000;
+   border-radius: 0px;
    padding: 0;
    margin: 0;
    text-align: left;

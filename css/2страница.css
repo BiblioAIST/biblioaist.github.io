@@ -645,12 +645,6 @@ body
 {
    text-align: left;
 }
-#Layer1
-{
-   background-color: #FFFFFF;
-   background-image: none;
-   border-radius: 0px;
-}
 #wb_StrelkaPravo
 {
    vertical-align: top;
@@ -698,4 +692,192 @@ body
    top: 0;
    width: 100%;
    height: 100%;
+}
+#Layer2
+{
+   background-color: #00A1FF;
+   background-image: none;
+   border-radius: 0px;
+}
+#Layer3
+{
+   background-color: #00A1FF;
+   background-image: none;
+   border-radius: 0px;
+}
+#wb_Text30 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text30 div
+{
+   text-align: left;
+}
+#wb_Text31 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text31 div
+{
+   text-align: left;
+}
+#Layer4
+{
+   background-color: #00A1FF;
+   background-image: none;
+   border-radius: 0px;
+}
+#Layer5
+{
+   background-color: #00A1FF;
+   background-image: none;
+   border-radius: 0px;
+}
+#wb_Text32 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text32 div
+{
+   text-align: left;
+}
+#wb_Text33 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text33 div
+{
+   text-align: left;
+}
+#Layer6
+{
+   background-color: #00A1FF;
+   background-image: none;
+   border-radius: 0px;
+}
+#Layer7
+{
+   background-color: #0089FF;
+   background-image: none;
+   border-radius: 0px;
+}
+#wb_Text34 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text34 div
+{
+   text-align: left;
+}
+#wb_Text35 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text35 div
+{
+   text-align: left;
+}
+#Layer8
+{
+   background-color: #0089FF;
+   background-image: none;
+   border-radius: 0px;
+}
+#wb_Text36 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text36 div
+{
+   text-align: left;
+}
+#wb_Text37 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text37 div
+{
+   text-align: left;
+}
+#Layer9
+{
+   background-color: #0089FF;
+   background-image: none;
+   border-radius: 0px;
+}
+#wb_Text38 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text38 div
+{
+   text-align: left;
+}
+#wb_Text39 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text39 div
+{
+   text-align: left;
 }
