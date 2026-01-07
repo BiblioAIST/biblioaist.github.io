@@ -16,85 +16,38 @@ body
    margin: 0;
    text-align: center;
 }
-#Layer4str
+#wb_Imgstr1Text
 {
-   background-color: #0089FF;
+   vertical-align: top;
+}
+#Imgstr1Text
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   animation: slide-left-in 1000ms ease 1ms 1 normal both;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer1strpodl
+{
+   background-color: #FF9400;
    background-image: none;
    border-radius: 0px;
+   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
 }
-#wb_Imgstr4
+#wb_Image001
 {
    vertical-align: top;
 }
-#Imgstr4
+#Image001
 {
    border: 0px solid #000000;
    border-radius: 0px;
    padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#wb_Imgstr2Text
-{
-   vertical-align: top;
-}
-#Imgstr2Text
-{
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   animation: slide-right-in 1000ms ease 1ms 1 normal both;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#wb_Imgstr6Text
-{
-   vertical-align: top;
-}
-#Imgstr6Text
-{
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   animation: slide-right-in 1000ms ease 0ms 1 normal both;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#wb_Imgstr5Text
-{
-   vertical-align: top;
-}
-#Imgstr5Text
-{
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   animation: slide-left-in 1000ms ease 1ms 1 normal both;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#wb_ImgstrTDText
-{
-   vertical-align: top;
-}
-#ImgstrTDText
-{
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   animation: slide-left-in 1000ms ease 1ms 1 normal both;
    margin: 0;
    left: 0;
    top: 0;
@@ -246,104 +199,6 @@ body
    background-image: none;
    border-radius: 0px;
 }
-#Layer2strpodl
-{
-   background-color: #FF9400;
-   background-image: none;
-   border-radius: 0px;
-   animation: slide-right-in 500ms ease-out 0ms 1 normal both;
-}
-#Layer2str
-{
-   background-color: #0089FF;
-   background-image: none;
-   border-radius: 0px;
-}
-#wb_Imgstr2
-{
-   vertical-align: top;
-}
-#Imgstr2
-{
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#Layer3strpodl
-{
-   background-color: #FF9400;
-   background-image: none;
-   border-radius: 0px;
-   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
-}
-#Layer4strpodl
-{
-   background-color: #FF9400;
-   background-image: none;
-   border-radius: 0px;
-   animation: slide-right-in 500ms ease-out 0ms 1 normal both;
-}
-#Layer5strpodl
-{
-   background-color: #FF9400;
-   background-image: none;
-   border-radius: 0px;
-   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
-}
-#Layer5str
-{
-   background-color: #0089FF;
-   background-image: none;
-   border-radius: 0px;
-}
-#wb_Imgstr5
-{
-   vertical-align: top;
-}
-#Imgstr5
-{
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#Layer6strpodl
-{
-   background-color: #FF9400;
-   background-image: none;
-   border-radius: 0px;
-   animation: slide-right-in 500ms ease-out 0ms 1 normal both;
-}
-#Layer6str
-{
-   background-color: #0089FF;
-   background-image: none;
-   border-radius: 0px;
-}
-#wb_Imgstr6
-{
-   vertical-align: top;
-}
-#Imgstr6
-{
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
 #LayerNiz
 {
    background-color: #00A1FF;
@@ -401,196 +256,11 @@ body
    width: 100%;
    height: 100%;
 }
-#wb_ImgVKlogo
-{
-   vertical-align: top;
-}
-#ImgVKlogo
-{
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#wb_ImgVKtext
-{
-   vertical-align: top;
-}
-#ImgVKtext
-{
-   border: 0px solid transparent;
-   border-radius: 0px;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#wb_ImgSaitText
-{
-   vertical-align: top;
-}
-#ImgSaitText
-{
-   border: 0px solid transparent;
-   border-radius: 0px;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#wb_Imggrcbs
-{
-   vertical-align: top;
-}
-#Imggrcbs
-{
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#wb_ImgTelText
-{
-   vertical-align: top;
-}
-#ImgTelText
-{
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#wb_ImgLogoTel
-{
-   vertical-align: top;
-}
-#ImgLogoTel
-{
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#LayerCherta2KD
-{
-   background-color: #FF9400;
-   background-image: none;
-   border-radius: 0px;
-   opacity: 0.00;
-}
-#Layer2strVerhSylka
-{
-   background-color: transparent;
-   background-image: none;
-   border-radius: 0px;
-}
-#Layer3strVerhSylka
-{
-   background-color: transparent;
-   background-image: none;
-   border-radius: 0px;
-}
-#LayerCherta3
-{
-   background-color: #FF9400;
-   background-image: none;
-   border-radius: 0px;
-   opacity: 0.00;
-}
-#LayerCherta4
-{
-   background-color: #FF9400;
-   background-image: none;
-   border-radius: 0px;
-   opacity: 0.00;
-}
-#LayerCherta5
-{
-   background-color: #FF9400;
-   background-image: none;
-   border-radius: 0px;
-   opacity: 0.00;
-}
-#LayerCherta6
-{
-   background-color: #FF9400;
-   background-image: none;
-   border-radius: 0px;
-   opacity: 0.00;
-}
-#Layer4strVerhSylka
-{
-   background-color: transparent;
-   background-image: none;
-   border-radius: 0px;
-}
-#Layer5strVerhSylka
-{
-   background-color: transparent;
-   background-image: none;
-   border-radius: 0px;
-}
-#Layer6strVerhSylka
-{
-   background-color: transparent;
-   background-image: none;
-   border-radius: 0px;
-}
 #wb_ImgPolitikaK
 {
    vertical-align: top;
 }
 #ImgPolitikaK
-{
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#wb_ImgEmailText
-{
-   vertical-align: top;
-}
-#ImgEmailText
-{
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#wb_ImgEmailLogo
-{
-   vertical-align: top;
-}
-#ImgEmailLogo
 {
    border: 0px solid #000000;
    border-radius: 0px;
@@ -684,131 +354,6 @@ body
    background-image: none;
    color: #FFFFFF;
 }
-#LayerTDstr
-{
-   background-color: transparent;
-   background-image: none;
-   border-radius: 0px;
-}
-#LayerTDstrVerhSylka
-{
-   background-color: #0089FF;
-   background-image: none;
-   border-radius: 0px;
-}
-#LayerTDstrpodl
-{
-   background-color: #FF9400;
-   background-image: none;
-   border-radius: 0px;
-   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
-}
-#LayerChertaTD
-{
-   background-color: #FF9400;
-   background-image: none;
-   border-radius: 0px;
-   opacity: 0.00;
-}
-#wb_ImgstrTD
-{
-   vertical-align: top;
-}
-#ImgstrTD
-{
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#wb_Imgstr3Text
-{
-   vertical-align: top;
-}
-#Imgstr3Text
-{
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   animation: slide-left-in 1000ms ease 1ms 1 normal both;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#Layer3str
-{
-   background-color: #0089FF;
-   background-image: none;
-   border-radius: 0px;
-}
-#wb_Image2
-{
-   vertical-align: top;
-}
-#Image2
-{
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   animation: slide-right-in 1000ms ease 1ms 1 normal both;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#Layer1
-{
-   background-color: transparent;
-   background-image: none;
-   border-radius: 0px;
-}
-#wb_Image3
-{
-   vertical-align: top;
-}
-#Image3
-{
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#Shape1
-{
-   border-width: 0;
-   vertical-align: top;
-}
-#Shape2
-{
-   border-width: 0;
-   vertical-align: top;
-}
-#Shape3
-{
-   border-width: 0;
-   vertical-align: top;
-}
-#Shape4
-{
-   border-width: 0;
-   vertical-align: top;
-}
-#Shape5
-{
-   border-width: 0;
-   vertical-align: top;
-}
 /* КУКИ */
 #cookie_notification{
   display: none;
@@ -885,4 +430,353 @@ body
 
 .button:disabled {
     cursor: not-allowed
+}
+#wb_Image002
+{
+   vertical-align: top;
+}
+#Image002
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image003
+{
+   vertical-align: top;
+}
+#Image003
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image004
+{
+   vertical-align: top;
+}
+#Image004
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image005
+{
+   vertical-align: top;
+}
+#Image005
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image006
+{
+   vertical-align: top;
+}
+#Image006
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer2strpodl
+{
+   background-color: #FF9400;
+   background-image: none;
+   border-radius: 0px;
+   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+}
+#Layer3strpodl
+{
+   background-color: #FF9400;
+   background-image: none;
+   border-radius: 0px;
+   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+}
+#Layer4strpodl
+{
+   background-color: #FF9400;
+   background-image: none;
+   border-radius: 0px;
+   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+}
+#Layer5strpodl
+{
+   background-color: #FF9400;
+   background-image: none;
+   border-radius: 0px;
+   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+}
+#Layer6strpodl
+{
+   background-color: #FF9400;
+   background-image: none;
+   border-radius: 0px;
+   animation: slide-left-in 500ms ease-out 0ms 1 normal both;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   animation: slide-left-in 1000ms ease 1ms 1 normal both;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   animation: slide-left-in 1000ms ease 1ms 1 normal both;
+}
+#wb_Text2 div
+{
+   text-align: left;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   animation: slide-left-in 1000ms ease 1ms 1 normal both;
+}
+#wb_Text3 div
+{
+   text-align: left;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   animation: slide-left-in 1000ms ease 1ms 1 normal both;
+}
+#wb_Text4 div
+{
+   text-align: left;
+}
+#wb_Text1_1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   opacity: 0.00;
+   text-align: left;
+}
+#wb_Text1_1 div
+{
+   text-align: left;
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   animation: slide-left-in 1000ms ease 1ms 1 normal both;
+}
+#wb_Text5 div
+{
+   text-align: left;
+}
+#wb_Text6 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   animation: slide-left-in 1000ms ease 1ms 1 normal both;
+}
+#wb_Text6 div
+{
+   text-align: left;
+}
+#wb_Text2_2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   opacity: 0.00;
+   text-align: left;
+}
+#wb_Text2_2 div
+{
+   text-align: left;
+}
+#wb_Text3_3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   opacity: 0.00;
+   text-align: left;
+}
+#wb_Text3_3 div
+{
+   text-align: left;
+}
+#wb_Text4_4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   opacity: 0.00;
+   text-align: left;
+}
+#wb_Text4_4 div
+{
+   text-align: left;
+}
+#wb_Text5_5 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   opacity: 0.00;
+   text-align: left;
+}
+#wb_Text5_5 div
+{
+   text-align: left;
+}
+#wb_Text6_6 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   opacity: 0.00;
+   text-align: left;
+}
+#wb_Text6_6 div
+{
+   text-align: left;
+}
+#wb_Text16+ 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text16+ div
+{
+   text-align: left;
+}
+#wb_ImageVKico
+{
+   vertical-align: top;
+}
+#ImageVKico
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_ImageMAXico
+{
+   vertical-align: top;
+}
+#ImageMAXico
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_ImageGRCBSico
+{
+   vertical-align: top;
+}
+#ImageGRCBSico
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
 }
